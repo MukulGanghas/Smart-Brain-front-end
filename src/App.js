@@ -13,7 +13,7 @@ import Rank from './components/Rank/Rank';
 import './App.css';
 
 const app = new Clarifai.App({
- apiKey: '751dcf67f3b9425180376cd5e7255354'
+ apiKey: ''
 });
 
 
